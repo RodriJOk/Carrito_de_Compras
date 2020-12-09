@@ -157,9 +157,7 @@ const accionBotones = () =>{
 }
 /* 
 let carritoEjemplo = {}
-
 carritoEjemplo={
     1: {id:1, titulo:"Cafe", precio: 500, cantidad:1}
 }
-
 console.log(carritoEjemplo) */
